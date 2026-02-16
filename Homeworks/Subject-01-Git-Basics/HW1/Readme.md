@@ -1,5 +1,4 @@
 
-```markdown
 # Git Log Output
 
 ![Git Log Oneline](images/image.png)
@@ -10,4 +9,4 @@ The image above shows the output of the `git log --oneline` command, which displ
 - **Commit message**
 
 This is useful for quickly reviewing the project's commit history without detailed information like author, date, or full commit messages.
-```
+
